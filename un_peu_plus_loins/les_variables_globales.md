@@ -1,6 +1,6 @@
 # Les variables superglobales
 
-Les variables superglobales sont générées autoamtiquement par l'environnement PHP. Elles incluent tout un tas de choses telles que des informations sur le serveur et les données envoyées par l'utilisateur. Elles sont accessibles partout dans une application mais varient en fonction du serveur et de l'internaute.
+Les variables superglobales sont générées automatiquement par l'environnement PHP. Elles incluent tout un tas de choses telles que des informations sur le serveur et les données envoyées par l'utilisateur. Elles sont accessibles partout dans une application mais varient en fonction du serveur et de l'internaute.
 
 Il en existe quelques-unes dont les plus importantes sont :
 

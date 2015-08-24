@@ -1,10 +1,10 @@
 # Les fonctions
 
-Les fonctions peuvent être assimilté à des robots. Elles sont utilisées pour énormément de choses et vous avez la possibilité d'en créer.
+Les fonctions peuvent être assimilées à des robots. Elles sont utilisées pour énormément de choses et vous avez la possibilité d'en créer.
 
 Elles sont créées pour réaliser une tâche bien précise qui est suceptible d'être répétée plusieurs fois dans l'application.
 
-Exemple : j'ai besoin de calculer la surface de 10 carrés donc je connais les dimensions qui sont respectivement : 10, 198, 72, 17, 92, 7293, 1287, 32, 1238, 7 (en m).
+Exemple : j'ai besoin de calculer la surface de 10 carrés donc je connais les dimensions : 10, 198, 72, 17, 92, 7293, 1287, 32, 1238, 7 (en m).
 
 Un code naïf aurait cette forme :
 
