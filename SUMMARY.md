@@ -22,4 +22,5 @@
    * [Les constantes](un_peu_plus_loins/les_constantes.md)
    * [Les fonctions](un_peu_plus_loins/les_fonctions.md)
    * [Les fomulaires](un_peu_plus_loins/les_fomulaires.md)
+   * [Exercices](un_peu_plus_loins/exercice.md)
 
