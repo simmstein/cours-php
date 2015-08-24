@@ -5,3 +5,5 @@
 
 Licence [WTFPL](http://www.wtfpl.net/)
 Sources : [Gitlab](https://gitlab.deblan.org/deblan/cours-php/src/master/un_peu_plus_loins/les_fonctions.md) (pull requests appréciées **:)**)
+
+Temps estimé : 40 heures pour une classe de 20 personnes avec beaucoup de débutants.
