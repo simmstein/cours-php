@@ -40,3 +40,4 @@ Une liste de fonctions qui pourraient vous intéresser :
 ## Un peu d'ergonomie…
 
 Imaginez un système qui permet à l'utilisateur de corriger une erreur de saisie sans devoir tout remplir à nouveau.
+**Attention à la sécurité !**
