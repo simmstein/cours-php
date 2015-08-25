@@ -55,3 +55,5 @@ foreach ($dimensions as dimension) {
 }
 ```
 
+Quand in introduit un ```return``` dans une fonction, elle stop son exécution et retourne la valeur indiquée. Si aucun ```return``` n'est placé alors elle va retourner ```null```.
+

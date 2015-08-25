@@ -19,7 +19,9 @@
    * [Exercice](les_bases/test.md)
 * [Un peu plus loins…](un_peu_plus_loins/README.md)
    * [Les variables superglobales](un_peu_plus_loins/les_variables_globales.md)
+   * [Portées des variables](un_peu_plus_loins/portees_des_variables.md)
    * [Les constantes](un_peu_plus_loins/les_constantes.md)
    * [Les fonctions](un_peu_plus_loins/les_fonctions.md)
    * [Les fomulaires](un_peu_plus_loins/les_fomulaires.md)
    * [Exercices](un_peu_plus_loins/exercice.md)
+
