@@ -33,9 +33,9 @@ Mettez un système qui enregistre l'IP de l'internaute dans un fichier Vous devr
 
 Une liste de fonctions qui pourraient vous intéresser :
 
-- ```isset```
 - ```file_get_contents```
 - ```file_put_contents```
+- ```fopen``` et ```fwrite```
 
 ## Un peu d'ergonomie…
 

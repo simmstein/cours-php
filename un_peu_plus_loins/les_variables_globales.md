@@ -36,4 +36,7 @@ array(62) {
 ```
 
 - Les cookies sont accessibles via ```$_COOKIE``` et les données stockées en session (coté serveur et coté client) avec ```$_SESSION```
+- ```$_FILES``` permet de gérer l'upload de fichiers
+
+http://php.net/manual/fr/reserved.variables.php
 
