@@ -70,4 +70,29 @@ array(3) {
 }
 ```
 
-Vous remarquerez que les données sont dans un format similaire au dernier TP.
+On peut maintenant parcourir ça via une boucle afin de les afficher :
+
+```php
+$query = $pdo->prepare('insert into wp_posts(post_title, post_date) values(:title, now()');
+
+$query->execute(array(
+    ':title' => "Comment faire pousser des pommes ?",
+));
+
+$query = $pdo->query('select post_title, post_date from wp_posts');
+$results = $query->fetchAll();
+
+foreach ($results as $article) {
+    include "templateArticle.php";
+}
+```
+
+Dans ```templateArticle.php``` :
+
+```php
+<article>
+    <h2><?php echo $article['post_title']; ?></h2>
+    <p>Posté le <?php echo $article['post_date']; ?></p>
+</article>
+```
+
