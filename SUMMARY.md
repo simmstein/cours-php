@@ -24,4 +24,12 @@
    * [Les fonctions](un_peu_plus_loins/les_fonctions.md)
    * [Les fomulaires](un_peu_plus_loins/les_fomulaires.md)
    * [Exercices](un_peu_plus_loins/exercice.md)
+* [Les base de données](un_peu_plus_loins/les_base_de_donnees.md)
+   * [Introduction](un_peu_plus_loins/introduction.md)
+   * [MySQL](un_peu_plus_loins/mysql.md)
+       * [L'architecture générale](un_peu_plus_loins/larchitecture_generale.md)
+       * [Comment jouer avec MySQL ?](un_peu_plus_loins/comment_jouer_avec_mysql.md)
+       * [Du SQL ?!](un_peu_plus_loins/du_sql.md)
+   * [PHP](un_peu_plus_loins/php.md)
+* [Design patterns](design_patterns/README.md)
 
